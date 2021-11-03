@@ -9,7 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- LinkedIn : [https://www.linkedin.com/in/amr-ibrahim-60b034a0](https://www.linkedin.com/in/amr-ibrahim-60b034a0)
+- Mail : amramr3434@gmail.com
+- Phone : 01148602092
 
 <br />
 
@@ -31,12 +33,3 @@
 
 <br />
 <br />
-
-[linkedin]: https://linkedin.com/in/amr-ibrahim-60b034a0
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
