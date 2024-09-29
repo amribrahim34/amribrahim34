@@ -1,8 +1,8 @@
-## I'm a geek who loves to code
+## I'm an agronomist who loves to code
 
-- 🌱 I’m currently learning Vue.js and Node.js
+- 🌱 I’m currently building a code generator
 - 👯 I code for Fun
-- 🥅 2022 Goals: Build a project with 100k users
+- 🥅 2024 Goals: Build a project with 500 USD/month in revenue
 - ⚡ Fun fact: I am anime Fan, Gamer and I love science.
 
 ### Connect with me:
