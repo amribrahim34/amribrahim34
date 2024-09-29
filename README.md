@@ -7,8 +7,8 @@ I'm passionate about science and problem-solving, which drives my love for both 
 ## 🌱 Current Endeavors
 
 - Enhancing Fast Stack to support React Native and improve flexibility
-- Exploring AI applications in agriculture
-- Contributing to open-source projects related to AgriTech
+- Learning the business side of software
+- Learning UI /UX
 
 ## 🎯 2024 Goal
 
