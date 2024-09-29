@@ -20,7 +20,7 @@
 <br />
 
 ### Frameworks & Libraries:
-<img align="left" alt="laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /> <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img align="left" alt="tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/985b241b84b747e2bbcf0b99c800610f22eb9f84/topics/tailwind/tailwind.png" /> <img align="left" alt="jquery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img align="left" alt="naive-ui" width="30px" src="https://raw.githubusercontent.com/tamhan3502/naive-ui-icons/main/naive-ui.svg" /> <be>
+<img align="left" alt="laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /> <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> <img align="left" alt="tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/985b241b84b747e2bbcf0b99c800610f22eb9f84/topics/tailwind/tailwind.png" /> <img align="left" alt="jquery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> <img align="left" alt="naive-ui" width="30px" src="https://raw.githubusercontent.com/tamhan3502/naive-ui-icons/main/naive-ui.svg" /> <br>
 
 <br />
 <br />
