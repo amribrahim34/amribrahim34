@@ -1,4 +1,4 @@
-# 👨‍🌾 Amr Ibrahim - Agronomist & Developer
+# 👨‍🌾 Amr Ibrahim - MBA Student & Developer
 
 ## About Me
 
